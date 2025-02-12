@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809985319376",
+    "project_id": "to-do-2tfwyy",
+    "storage_bucket": "to-do-2tfwyy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809985319376:android:8a82419249725ae8e699d5",
+        "android_client_info": {
+          "package_name": "com.mycompany.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHaHht2PuSjD_nWjPTlnlWp2M5Nh3AGEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
